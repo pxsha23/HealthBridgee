@@ -65,3 +65,11 @@ Start the application:
   By using the following command in both client and server folder
     npm start
 
+![Screenshot 2025-04-14 092158](https://github.com/user-attachments/assets/2ecbf0b7-9519-419a-938a-cc42ee1ce028)
+
+![Screenshot 2025-05-13 151123](https://github.com/user-attachments/assets/3b068245-b3d3-4966-9503-484c1835f675)
+
+![Screenshot 2025-05-13 151145](https://github.com/user-attachments/assets/db499738-aa0a-4669-b15e-b8bb1310f0d3)
+
+
+
