@@ -20,7 +20,7 @@ function SideBar({ name }) {
       >
         <FontAwesomeIcon icon={faXmark} className={styles.xmark} size="2x" color="white" onClick={()=>setOpen(false)} />
         <div className={styles.clinicDetails}>
-          <h1>Care Clinic</h1>
+          <h1>HealthBridgee</h1>
         </div>
         <div className={styles.mobContainer}>
           <ul>
@@ -99,7 +99,7 @@ function SideBar({ name }) {
         </div>
         <div className={styles.container}>
           <div className={styles.clinicDetails}>
-            <h1>Care Clinic</h1>
+            <h1>HealthBridgee</h1>
           </div>
           <div className={styles.navContainer}>
             <ul>

@@ -57,6 +57,9 @@ function BillingAmount() {
       e.preventDefault();
       if (isCheck === false)
         return errorToast("Please Enter The Above Credentials");
+      if (!docName) return errorToast("Please enter the Doctor's Name");
+      if (!amount) return errorToast("Please enter the Amount");
+
       if (!amount) return;
       setIsLoad(true);
       await axios.post(
@@ -141,6 +144,7 @@ function BillingAmount() {
                     type="text"
                     required
                     placeholder="Enter The Name Of The Doctor"
+                    value={docName}
                     onChange={(e) => setDocname(e.target.value)}
                   />
                 </div>

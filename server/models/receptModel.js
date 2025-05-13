@@ -24,5 +24,6 @@ const receptSchema = new mongoose.Schema({
   ],
 });
 
-const Recept = mongoose.model("Recept", receptSchema);
+// const Recept = mongoose.model("Recept", receptSchema);
+const Recept = mongoose.model("Recept", receptSchema, "receptionists"); // <== IMPORTANT: 'receptionists' is the actual collection name in MongoDB
 module.exports = { Recept };

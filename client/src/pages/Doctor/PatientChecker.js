@@ -187,7 +187,7 @@ function PatientChecker() {
                   })}
                 </div>
                 <div className={styles.formGroup}>
-                  <label htmlFor="address">Prescription</label>
+                  <label htmlFor="address">Prescription And Consultation Notes</label>
                   <textarea
                     id="address"
                     cols="30"
