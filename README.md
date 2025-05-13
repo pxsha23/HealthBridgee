@@ -2,7 +2,9 @@
 A modern, full-stack Clinic Management Web Application built with the MERN stack, developed as part of a Community Engagement Project to simplify healthcare workflows and enhance patient care. Featuring a clean UI, intuitive UX, and role-based functionality for doctors and receptionists, the system streamlines appointment scheduling, symptom tracking, and fee management in local clinics.
 
 ✅ Interfaces & Core Features
+
 💼 Receptionist Panel
+
 📅 Schedule and manage patient appointments
 
 🔢 Generate and track token numbers for patient visits
@@ -10,6 +12,7 @@ A modern, full-stack Clinic Management Web Application built with the MERN stack
 💰 Manage appointment fee collection and billing records
 
 🩺 Doctor Dashboard
+
 🔍 Access patient records using token-based lookup
 
 📖 View previous symptoms and medical history
@@ -17,6 +20,7 @@ A modern, full-stack Clinic Management Web Application built with the MERN stack
 ✍️ Add new consultation notes and symptoms seamlessly
 
 🛠 Tech Stack
+
 Frontend: React.js – Responsive, clean design for smooth navigation
 
 Backend: Node.js + Express.js – Fast and scalable API services
@@ -28,6 +32,7 @@ Authentication: JWT – Secure, role-based access for receptionists and doctors
 This project was inspired by/uses parts of code from Bhaskar G's Clinic Management project.
 
 🌍 Community Impact
+
 Built to support local clinics and healthcare workers, this system reduces manual record-keeping, improves service time, and ensures focused, high-quality care for every patient. By empowering small clinics with efficient digital tools, we aim to foster a healthier, happier community.
 
 # Installation
