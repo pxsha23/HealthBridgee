@@ -1,3 +1,4 @@
+![Screenshot 2025-04-14 092158](https://github.com/user-attachments/assets/2ecbf0b7-9519-419a-938a-cc42ee1ce028)
 🏥 Clinic Management System — MERN Stack
 A modern, full-stack Clinic Management Web Application built with the MERN stack, developed as part of a Community Engagement Project to simplify healthcare workflows and enhance patient care. Featuring a clean UI, intuitive UX, and role-based functionality for doctors and receptionists, the system streamlines appointment scheduling, symptom tracking, and fee management in local clinics.
 
@@ -64,8 +65,6 @@ Start the application:
   You need to start the application in both server and client simultaneously
   By using the following command in both client and server folder
     npm start
-
-![Screenshot 2025-04-14 092158](https://github.com/user-attachments/assets/2ecbf0b7-9519-419a-938a-cc42ee1ce028)
 
 ![Screenshot 2025-05-13 151123](https://github.com/user-attachments/assets/3b068245-b3d3-4966-9503-484c1835f675)
 
