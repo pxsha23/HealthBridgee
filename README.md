@@ -6,19 +6,19 @@ A modern, full-stack Clinic Management Web Application built with the MERN stack
 
 💼 Receptionist Panel
 
-📅 Schedule and manage patient appointments
+Schedule and manage patient appointments
 
-🔢 Generate and track token numbers for patient visits
+Generate and track token numbers for patient visits
 
-💰 Manage appointment fee collection and billing records
+Manage appointment fee collection and billing records
 
 🩺 Doctor Dashboard
 
-🔍 Access patient records using token-based lookup
+Access patient records using token-based lookup
 
-📖 View previous symptoms and medical history
+View previous symptoms and medical history
 
-✍️ Add new consultation notes and symptoms seamlessly
+Add new consultation notes and symptoms seamlessly
 
 🛠 Tech Stack
 
