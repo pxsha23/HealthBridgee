@@ -39,7 +39,7 @@ Built to support local clinics and healthcare workers, this system reduces manua
 # Installation
 1.Clone the repository:
 
-    git clone https://github.com/Bhaski47/Clinic-Management
+    git clone https://github.com/pxsha23/HealthBridgee.git
 
 2.Navigate to the project folder:
 
